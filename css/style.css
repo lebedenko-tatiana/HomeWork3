@@ -10,14 +10,14 @@ margin: 50px 45px 0 ;
 
 .TopMenu{
 font-size: 0;
-line-height: 0;
+/*line-height: 0;*/
 letter-spacing: -1px;
 background: #535353;
 margin: 40px 45px;
 }
 
 .TopMenu li{
-line-height: normal;
+line-height: 40px;
 font-size: 14px;
 color: white;
 letter-spacing: normal;
@@ -47,6 +47,7 @@ float: left;
 .Menu li {
 list-style: none;
 border: 1px solid #c8c8c8;
+line-height: 40px;
 width: 240px;
 height: 40px;
 padding-left: 25px;
@@ -75,13 +76,13 @@ margin: 40px 45px 60px 360px;
 
 .BottomMenu{
 font-size: 0;
-line-height: 0;
+/*line-height: 0;*/
 letter-spacing: -1px;
 float: left;
 }
 
 .BottomMenu li{
-line-height: normal;
+line-height: 40px;
 font-size: 14px;
 color: black;
 letter-spacing: normal;
