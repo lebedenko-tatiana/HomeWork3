@@ -17,12 +17,12 @@ h1 {
   padding: 50px 0 0 0;
 }
 
-.TopMenu {
+.Header {
   background: #535353;
   margin: 40px 45px;
 }
 
-.TopMenu li {
+.Header li {
   line-height: 40px;
   font-size: 14px;
   color: white;
@@ -35,22 +35,22 @@ h1 {
   text-align: center;
 }
 
-.TopMenu li a {
+.Header li a {
   color: white;
   text-decoration: none;
 }
 
-.TopMenu li:hover {
+.Header li:hover {
   background: #383838;
   border: 1px solid #838383;
 }
 
-.Menu {
+.Sidebar {
   margin: 40px 45px;
   float: left;
 }
 
-.Menu li {
+.Sidebar li {
   list-style: none;
   border: 1px solid #c8c8c8;
   line-height: 40px;
@@ -60,13 +60,13 @@ h1 {
   cursor: pointer;
 }
 
-.Menu li a {
+.Sidebar li a {
   color: gray;
   text-decoration: none;
   padding-left: 25px;
 }
 
-.Menu li:hover {
+.Sidebar li:hover {
   padding-left: 10px;
   background: #f9f9f9;
   width: 228px;
@@ -103,12 +103,12 @@ p {
   text-decoration: underline;
 }
 
-.inside_SideBar {
+.inside_Footer {
   text-align: right;
   margin-right: 20px;
 }
 
-.SideBar {
+.Footer {
   background: #e1e1e1;
   margin: 60px 45px 0;
   height: 40px;
